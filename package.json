@@ -20,6 +20,7 @@
 "scripts": {
   "start": "node keep_alive.js & node bot.js"
 }
+  
   },
   "author": "SSRR",
   "license": "XX",
