@@ -17,8 +17,9 @@
     "spotify-web-api-node": "^5.0.2",
     "yt-search": "^2.12.1"
   },
-  "scripts": {
-    "start": "node index.js"
+"scripts": {
+  "start": "node keep_alive.js & node bot.js"
+}
   },
   "author": "SSRR",
   "license": "XX",
